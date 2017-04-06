@@ -4,7 +4,7 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=code.google.com/p/graphics-go/graphics
+TARG=github.com/image-server/graphics-go/graphics
 GOFILES=\
 	detect.go\
 	doc.go\
